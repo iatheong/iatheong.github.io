@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iatheong.github.io/sitemap
+Sitemap: https://iatheong.github.io/app/sitemap
+Sitemap: https://iatheong.github.io/assets/sitemap
+Sitemap: https://iatheong.github.io/css/sitemap
+Sitemap: https://iatheong.github.io/includes/sitemap
+Sitemap: https://iatheong.github.io/item/sitemap
+Sitemap: https://iatheong.github.io/src/sitemap
